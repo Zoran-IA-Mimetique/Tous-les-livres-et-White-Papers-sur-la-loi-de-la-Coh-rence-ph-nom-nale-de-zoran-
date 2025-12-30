@@ -92,7 +92,8 @@ Série **La Cohérence** :
 - Hors-séries thématiques
 - La Cohérence des matériaux au vivant
 - La décohérence des pathologies
-- Le déclin de la Cohérence de la démocratie française...
+- Le déclin de la Cohérence de la démocratie française
+- La Cohérence Écologique...
 
 Chaque livre :
 - possède un **DOI**
