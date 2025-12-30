@@ -90,6 +90,7 @@ Série **La Cohérence** :
 - La Cohérence au travail  
 - La Cohérence amoureuse  
 - Hors-séries thématiques
+- La Cohérence des matériaux au vivant ...
 
 Chaque livre :
 - possède un **DOI**
