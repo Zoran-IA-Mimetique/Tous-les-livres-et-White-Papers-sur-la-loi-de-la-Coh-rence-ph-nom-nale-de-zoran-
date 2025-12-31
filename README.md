@@ -94,7 +94,8 @@ Série **La Cohérence** :
 - La décohérence des pathologies
 - Le déclin de la Cohérence de la démocratie française
 - La Cohérence Écologique
-- La Cohérence du temps...
+- La Cohérence du temps
+- La Cohérence du boson de Higgs...
 
 Chaque livre :
 - possède un **DOI**
