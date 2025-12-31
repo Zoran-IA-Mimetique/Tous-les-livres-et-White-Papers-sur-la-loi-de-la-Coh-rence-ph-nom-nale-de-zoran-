@@ -95,7 +95,8 @@ Série **La Cohérence** :
 - Le déclin de la Cohérence de la démocratie française
 - La Cohérence Écologique
 - La Cohérence du temps
-- La Cohérence du boson de Higgs...
+- La Cohérence du boson de Higgs
+- La Cohérence du vivant Higgs montre la voie...
 
 Chaque livre :
 - possède un **DOI**
