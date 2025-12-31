@@ -93,7 +93,8 @@ Série **La Cohérence** :
 - La Cohérence des matériaux au vivant
 - La décohérence des pathologies
 - Le déclin de la Cohérence de la démocratie française
-- La Cohérence Écologique...
+- La Cohérence Écologique
+- La Cohérence du temps...
 
 Chaque livre :
 - possède un **DOI**
