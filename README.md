@@ -96,7 +96,8 @@ Série **La Cohérence** :
 - La Cohérence Écologique
 - La Cohérence du temps
 - La Cohérence du boson de Higgs
-- La Cohérence du vivant Higgs montre la voie...
+- La Cohérence du vivant Higgs montre la voie
+- La Cohérence Démographique...
 
 Chaque livre :
 - possède un **DOI**
