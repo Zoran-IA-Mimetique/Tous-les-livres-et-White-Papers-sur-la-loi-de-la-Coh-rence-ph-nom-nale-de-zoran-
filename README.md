@@ -98,7 +98,8 @@ Série **La Cohérence** :
 - La Cohérence du boson de Higgs
 - La Cohérence du vivant Higgs montre la voie
 - La Cohérence Démographique
-- L'incohérence n'existe pas, seule l'incohérence imparfaite existe...
+- L'incohérence n'existe pas, seule l'incohérence imparfaite existe
+- La Cohérence parfaite appauvrit l'interaction...
 
 Chaque livre :
 - possède un **DOI**
