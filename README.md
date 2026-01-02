@@ -97,7 +97,8 @@ Série **La Cohérence** :
 - La Cohérence du temps
 - La Cohérence du boson de Higgs
 - La Cohérence du vivant Higgs montre la voie
-- La Cohérence Démographique...
+- La Cohérence Démographique
+- L'incohérence n'existe pas, seule l'incohérence imparfaite existe...
 
 Chaque livre :
 - possède un **DOI**
