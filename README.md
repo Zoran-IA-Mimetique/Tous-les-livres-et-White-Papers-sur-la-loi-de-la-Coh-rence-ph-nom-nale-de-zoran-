@@ -99,7 +99,8 @@ Série **La Cohérence** :
 - La Cohérence du vivant Higgs montre la voie
 - La Cohérence Démographique
 - L'incohérence n'existe pas, seule l'incohérence imparfaite existe
-- La Cohérence parfaite appauvrit l'interaction...
+- La Cohérence parfaite appauvrit l'interaction
+- Arrêtez de vouloir être normal, soyez cohérents...
 
 Chaque livre :
 - possède un **DOI**
