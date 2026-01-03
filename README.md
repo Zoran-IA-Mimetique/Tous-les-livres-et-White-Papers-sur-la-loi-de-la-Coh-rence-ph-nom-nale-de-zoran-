@@ -98,6 +98,7 @@ Série **La Cohérence** :
 - La Cohérence ontologique
 - A la conquête de la Cohérence
 - Le hasard n'existe pas. Nous ne sommes pas outillés pour calculer le seul futur cohérent
+- Exister après la Cohérence
 
 Chaque livre :
 - possède un **DOI**
