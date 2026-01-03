@@ -102,7 +102,8 @@ Série **La Cohérence** :
 - La Cohérence parfaite appauvrit l'interaction
 - Arrêtez de vouloir être normal, soyez cohérents
 - La Cohérence ontologique
-- A la conquête de la Cohérence...
+- A la conquête de la Cohérence
+- Le hasard n'existe pas. Nous ne sommes pas outillés pour calculer le seul futur cohérent
 
 Chaque livre :
 - possède un **DOI**
