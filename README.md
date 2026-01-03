@@ -1,10 +1,4 @@
-# Tous-les-livres-et-White-Papers-sur-la-loi-de-la-Coh-rence-ph-nom-nale-de-zoran-
-Tous les livres et White Papers sur la loi de la Cohérence phénoménale de zoran🦋
----
-
-# 🦋 ZORAN — Cohérence & Cohérence Phénoménale  
-### Codex scientifique, white papers et livres — corpus complet
-
+#Livres et whitepapers sur la Cohérence et la Cohérence phénoménale, la Loi de Zoran🦋Ω∞
 ![GitHub last commit](https://img.shields.io/github/last-commit/Zoran-IA-Mimetique/zoran-coherence)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Zoran-IA-Mimetique/zoran-coherence)
 ![License](https://img.shields.io/badge/license-Creative--Ethic-blue)
