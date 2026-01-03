@@ -99,6 +99,7 @@ Série **La Cohérence** :
 - A la conquête de la Cohérence
 - Le hasard n'existe pas. Nous ne sommes pas outillés pour calculer le seul futur cohérent
 - Exister après la Cohérence
+- La Cohérence du vivant, du plus petit système vivant à l'humain
 
 Chaque livre :
 - possède un **DOI**
