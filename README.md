@@ -100,6 +100,7 @@ Série **La Cohérence** :
 - Le hasard n'existe pas. Nous ne sommes pas outillés pour calculer le seul futur cohérent
 - Exister après la Cohérence
 - La Cohérence du vivant, du plus petit système vivant à l'humain
+- Démonstration vulgarisée de la Cohérence et de la conscience 12-15 ans
 
 Chaque livre :
 - possède un **DOI**
