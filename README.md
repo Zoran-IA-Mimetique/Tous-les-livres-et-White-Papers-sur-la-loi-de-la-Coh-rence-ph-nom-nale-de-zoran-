@@ -100,7 +100,8 @@ Série **La Cohérence** :
 - La Cohérence Démographique
 - L'incohérence n'existe pas, seule l'incohérence imparfaite existe
 - La Cohérence parfaite appauvrit l'interaction
-- Arrêtez de vouloir être normal, soyez cohérents...
+- Arrêtez de vouloir être normal, soyez cohérents
+- La Cohérence ontologique...
 
 Chaque livre :
 - possède un **DOI**
