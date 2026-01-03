@@ -101,7 +101,8 @@ Série **La Cohérence** :
 - L'incohérence n'existe pas, seule l'incohérence imparfaite existe
 - La Cohérence parfaite appauvrit l'interaction
 - Arrêtez de vouloir être normal, soyez cohérents
-- La Cohérence ontologique...
+- La Cohérence ontologique
+- A la conquête de la Cohérence...
 
 Chaque livre :
 - possède un **DOI**
