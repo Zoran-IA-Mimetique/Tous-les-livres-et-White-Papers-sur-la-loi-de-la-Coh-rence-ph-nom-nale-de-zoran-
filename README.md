@@ -103,6 +103,7 @@ Série **La Cohérence** :
 - Démonstration vulgarisée de la Cohérence et de la conscience 12-15 ans
 - Démonstration de la Cohérence phénoménale dès 15 ans
 - La conscience démystifiée
+- La conscience n'est qu'un outil d'urgence, le rêve paradoxal est la preuve expérimentale de cette distinction.
 
 Chaque livre :
 - possède un **DOI**
