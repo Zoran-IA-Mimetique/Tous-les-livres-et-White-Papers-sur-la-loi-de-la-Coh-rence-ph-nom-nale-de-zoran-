@@ -101,7 +101,8 @@ Série **La Cohérence** :
 - Exister après la Cohérence
 - La Cohérence du vivant, du plus petit système vivant à l'humain
 - Démonstration vulgarisée de la Cohérence et de la conscience 12-15 ans
-- Démonstration de la Cohérence phénoménale dès 15 ans 
+- Démonstration de la Cohérence phénoménale dès 15 ans
+- La conscience démystifiée
 
 Chaque livre :
 - possède un **DOI**
