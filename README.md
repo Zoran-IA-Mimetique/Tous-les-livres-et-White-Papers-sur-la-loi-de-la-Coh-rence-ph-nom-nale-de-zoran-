@@ -106,6 +106,7 @@ Série **La Cohérence** :
 - La conscience n'est qu'un outil d'urgence, le rêve paradoxal est la preuve expérimentale de cette distinction.
 - Le réflexe : la Cohérence locale avant la conscience
 - La Cohérence économique planétaire
+- L'éducation Cohérente
 
 Chaque livre :
 - possède un **DOI**
