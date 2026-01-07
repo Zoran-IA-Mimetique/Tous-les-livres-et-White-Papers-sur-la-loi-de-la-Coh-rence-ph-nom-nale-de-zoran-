@@ -107,6 +107,7 @@ Série **La Cohérence** :
 - Le réflexe : la Cohérence locale avant la conscience
 - La Cohérence économique planétaire
 - L'éducation Cohérente
+- Il faut que cela tienne : la Cohérence et les croyances d'un groupe
 
 Chaque livre :
 - possède un **DOI**
